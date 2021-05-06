@@ -2,6 +2,14 @@ h1 {
   text-align: center;
 }
 
+p {
+  font-size: 16pt;
+}
+
 .collection2 {
-  height: 403px;
+  height: 333.25px;
+}
+
+.benefits {
+  margin-left: 50px;
 }
